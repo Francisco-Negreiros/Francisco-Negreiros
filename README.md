@@ -1,29 +1,29 @@
 # 👋 Hi, I'm Valter
 
-Backend Developer focused on Java & Spring Boot 🚀
-Building real-world applications with clean architecture and best practices.
+💻 Backend Developer focused on **Java & Spring Boot**
+🚀 Building real-world applications with clean architecture and best practices
 
 ---
 
 ## 🇺🇸 About Me
 
-* Backend Developer in progress
-* Focused on Java and Spring Boot
-* Building real-world APIs and systems
-* Strong foundation in Object-Oriented Programming (OOP)
-* Degree in Systems Analysis and Development
-* Passionate about clean code, architecture and continuous learning
+* Backend Developer in continuous evolution
+* Focused on **Java, Spring Boot and REST APIs**
+* Hands-on experience building **real-world full stack applications**
+* Strong foundation in **Object-Oriented Programming (OOP)**
+* Degree in **Systems Analysis and Development**
+* Passionate about **clean code, architecture and problem solving**
 
 ---
 
 ## 🇧🇷 Sobre mim
 
-* Desenvolvedor Backend em evolução
-* Focado em Java e Spring Boot
-* Construindo APIs e sistemas reais
-* Base sólida em Programação Orientada a Objetos (POO)
-* Formação em Análise e Desenvolvimento de Sistemas
-* Apaixonado por boas práticas, arquitetura e aprendizado contínuo
+* Desenvolvedor Backend em evolução constante
+* Focado em **Java, Spring Boot e APIs REST**
+* Experiência prática com **aplicações full stack reais**
+* Base sólida em **Programação Orientada a Objetos (POO)**
+* Formação em **Análise e Desenvolvimento de Sistemas**
+* Apaixonado por **boas práticas, arquitetura e resolução de problemas**
 
 ---
 
@@ -31,6 +31,9 @@ Building real-world applications with clean architecture and best practices.
 
 **Backend:**
 Java | Spring Boot | Spring Security | JPA / Hibernate
+
+**Frontend:**
+React | Vite | Axios
 
 **Database:**
 PostgreSQL
@@ -40,29 +43,45 @@ Git | GitHub | Postman | Insomnia
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
-### 💰 DrivalTech Finance API
+### 💰 DrivalTech Finance (Full Stack)
 
-Financial management API built with Spring Boot.
+Complete financial management system built with **Spring Boot + React**
+
+#### 🔐 Backend Features
 
 * JWT Authentication & Authorization
 * Role-based access (ADMIN / USER)
-* Transaction management (CRUD)
-* Dashboard with financial summary and analytics
-* Pagination, sorting and filtering
-* Multi-tenant data isolation
+* Categories with type (INCOME / EXPENSE)
+* Transactions CRUD
+* Dashboard with financial summary
+* Pagination and filtering
+* Multi-tenant data isolation (per user)
 
-🔗 https://github.com/Francisco-Negreiros/drivaltech-finance-api
+#### 💻 Frontend Features
+
+* Authentication flow (login + protected routes)
+* Dashboard with real-time data
+* Transactions management (CRUD)
+* Categories management (CRUD with type)
+* Table-based UI with consistent layout
+* Integration with REST API
+
+🔗 Backend:
+https://github.com/Francisco-Negreiros/drivaltech-finance-api
+
+🔗 Frontend:
+https://github.com/Francisco-Negreiros/drivaltech-frontend.git
 
 ---
 
 ### 🛒 Sales System (Console - Java)
 
-Console-based sales system focused on clean architecture and OOP.
+Console-based application focused on **OOP and clean architecture**
 
 * Product management (CRUD)
-* File-based persistence (.txt)
+* File persistence (.txt)
 * Business rules with exception handling
 
 🔗 https://github.com/Francisco-Negreiros/sistema-vendas-console
@@ -71,35 +90,37 @@ Console-based sales system focused on clean architecture and OOP.
 
 ### 🧾 Tax System (Console - Java)
 
-Tax calculation system demonstrating advanced OOP concepts.
+System for tax calculation using advanced OOP concepts
 
 * Inheritance and polymorphism
-* CSV persistence
-* Domain validations and services
+* CSV file handling
+* Domain validation and services
 
 🔗 https://github.com/Francisco-Negreiros/sistema-impostos-console
 
 ---
 
-## 📊 GitHub Stats (coming soon)
+## 🎯 Current Focus
 
----
-
-## 📫 Contact
-
-* LinkedIn: https://www.linkedin.com/in/francisco-negreiros-9507b9383/
-* Email: [negreiros.fv@gmail.com](mailto:negreiros.fv@gmail.com)
+* Improving backend architecture skills
+* Building production-ready full stack systems
+* Writing clean and maintainable code
 
 ---
 
 ## 🚀 Future Goals
 
-* Improve backend architecture skills
 * Learn caching with Redis
 * Work with Docker and CI/CD
-* Build full-stack applications
+* Deep dive into system design
+* Build scalable full stack applications
 
 ---
 
-⭐ Always learning and evolving
+## 📫 Contact
 
+* Email: [negreiros.fv@gmail.com](mailto:negreiros.fv@gmail.com)
+
+---
+
+⭐ Always learning. Always building.
